@@ -528,7 +528,7 @@ namespace vpAssignment1
             }
             else
             {
-                Console.WriteLine("Error!!! Invalid Choice!"); //Error message on invalid choice input 
+                Console.WriteLine("Error! Invalid Choice!"); //Error message on invalid choice input 
             }
         }
     }
